@@ -21,7 +21,6 @@ body {
     margin: 0; 
     scroll-behavior: auto;
 
-
 }
 
 .topnav {
@@ -121,8 +120,14 @@ body {
     text-decoration: none;
     color:#A51C30;
     opacity: .65;
-
 }
+
+.facebook{
+    text-decoration: none;
+    color:#4267B2;
+}
+
+
 
 .yx a{
     text-decoration: none;
