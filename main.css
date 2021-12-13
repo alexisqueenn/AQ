@@ -1,4 +1,4 @@
-@import url("https://use.typekit.net/ibf5igr.css");
+@import url("https://use.typekit.net/asc4pgk.css");
 
 
 /* CSS HEX 
@@ -34,7 +34,7 @@ body {
 .topnav a {  
     color: black;
     font-size: 150%;
-    font-family: roboto, sans-serif;
+    font-family: neue-haas-grotesk-display, sans-serif;
     font-weight: 600;
     font-style: normal;
     text-decoration: none;
@@ -80,9 +80,6 @@ body {
     height: 30%;
 }
 
-
-     
-
 .name { 
     display: block;
     margin-top: -20px;
@@ -93,8 +90,8 @@ body {
     text-align: left;
     font-size: 700%;
     color:black;
-    font-family: roboto, sans-serif;
-    font-weight: 300;
+    font-family: kansasnew, serif;
+    font-weight: 300;   
     font-style: normal;
     text-decoration: none;
 }
@@ -104,7 +101,7 @@ body {
     color:black ;
     padding-left: 9vw;
     font-size: 180%;
-    font-family: roboto, sans-serif;
+    font-family: neue-haas-grotesk-display, sans-serif;
     font-weight: 300;
     font-style: normal;
     text-decoration: none;
