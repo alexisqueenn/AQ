@@ -1,4 +1,5 @@
-@import url("https://use.typekit.net/asc4pgk.css");
+@import url("https://use.typekit.net/ibf5igr.css");
+
 
 /* CSS HEX 
 --shamrock-green: #319758ff;
@@ -16,11 +17,10 @@
 */ 
 
 body {
-    background-color: #ECF0F1; 
+    background-color: #F5f5f5; 
     background-size: 101%;
     margin: 0; 
     scroll-behavior: auto;
-
 
 }
 
@@ -34,7 +34,7 @@ body {
 .topnav a {  
     color: black;
     font-size: 150%;
-    font-family: neue-haas-grotesk-display, sans-serif;
+    font-family: roboto, sans-serif;
     font-weight: 600;
     font-style: normal;
     text-decoration: none;
@@ -80,6 +80,9 @@ body {
     height: 30%;
 }
 
+
+     
+
 .name { 
     display: block;
     margin-top: -20px;
@@ -90,8 +93,8 @@ body {
     text-align: left;
     font-size: 700%;
     color:black;
-    font-family: kansasnew, serif;
-    font-weight: 300;   
+    font-family: roboto, sans-serif;
+    font-weight: 300;
     font-style: normal;
     text-decoration: none;
 }
@@ -101,7 +104,7 @@ body {
     color:black ;
     padding-left: 9vw;
     font-size: 180%;
-    font-family: neue-haas-grotesk-display, sans-serif;
+    font-family: roboto, sans-serif;
     font-weight: 300;
     font-style: normal;
     text-decoration: none;
@@ -121,8 +124,14 @@ body {
     text-decoration: none;
     color:#A51C30;
     opacity: .65;
-
 }
+
+.facebook{
+    text-decoration: none;
+    color:#4267B2;
+}
+
+
 
 .yx a{
     text-decoration: none;
